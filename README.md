@@ -1,2 +1,3 @@
-# miniprojet-SDD
-Mini Projet de Structures de Données (SDD - LU2IN006) - Cursus Mono Informatique Sorbonne Université
+#### LU2IN006
+# Mini Projet SDD
+### Mini Projet de Structures de Données - Cursus Mono Informatique Sorbonne Université
